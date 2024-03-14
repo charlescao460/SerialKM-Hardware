@@ -1,0 +1,1 @@
+1. Only one CC pin on the USB Type-C connector needs to be pull-down. Otherwise it will not power on some devices.
