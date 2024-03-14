@@ -1,1 +1,2 @@
-1. Only one CC pin on the USB Type-C connector needs to be pull-down. Otherwise it will not power on some devices.
+1. Only one CC pin on the Target USB Type-C Male connector needs to be pull-down. Otherwise it will not power on some devices. But for the Host Female connector, it needs two pull-downs.
+2. Add silks/solder guide to indicate Host and Target.
